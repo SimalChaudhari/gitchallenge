@@ -1,2 +1,5 @@
 .nyc_output
 coverage
+config.bat
+node_modules
+.env
